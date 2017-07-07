@@ -6,4 +6,4 @@ def convertCookieStrToDict(cookieStr):
     for i in StrArray:
         iArray =i.split("=")
         tempDict[iArray[0]] = iArray[1]
-        return tempDict
+        return tempDictk
